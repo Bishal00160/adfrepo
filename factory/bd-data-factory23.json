@@ -1,0 +1,9 @@
+{
+	"name": "bd-data-factory23",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e43ac153-6ecf-4e8e-8987-94115863deef",
+		"tenantId": "33b3ef77-95fd-46bf-a5e2-a45b8126c3e1"
+	}
+}
